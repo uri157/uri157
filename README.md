@@ -18,10 +18,10 @@ I enjoy designing architectures that remain maintainable as systems grow: **mult
 
 # 🧠 Key Projects
 
-### [Krono & Pulse](https://github.com/uri157/krono) *(Reemplazá con el link real)*
+### [Krono & Pulse](https://github.com/uri157/krono) 
 Deterministic **simulation and execution environment** for algorithmic trading. The architecture separates strategy logic from infrastructure, featuring a core engine built in **Rust** and an isolated execution runtime in **Python** (Pulse).
 
-### [Reservation Platform](https://github.com/uri157/tu-repo) *(Reemplazá con el link real)*
+### [Reservation Platform](https://github.com/uri157/reservation-platform) 
 Multi-tenant reservation system featuring a **C# .NET 8 policy-driven booking engine**, real-time administrator coordination via WebSockets, and GHCR containerized deployment workflows.
 
 ### [compose-vps-deploy](https://github.com/uri157/compose-vps-deploy)
@@ -30,7 +30,7 @@ Deterministic **Docker Compose deployment framework** for VPS environments with 
 ### [pgbackrest-compose-ops](https://github.com/uri157/pgbackrest-compose-ops)
 Operational toolkit for **safe PostgreSQL backup and restore workflows** using pgBackRest in Docker Compose environments, supporting restore-to-new-volume operations.
 
-### Trading Chart Platform
+### [Trading Chart Platform](https://github.com/uri157/trading-chart)
 Real-time market data visualization platform built with a **C++ backend API**, DuckDB time-series storage, and a **Next.js trading chart interface**.
 
 ---
